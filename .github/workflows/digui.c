@@ -7,9 +7,9 @@ int man ()
  scanf("scanf%d",&number);
  for(;number=1;){
   if(void oshu()==-1){
-   number *= 3
+   number *= 3;
   }else{
-   number /= 2
+   number /= 2;
   } 
  }
  return 0;
